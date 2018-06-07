@@ -168,6 +168,7 @@
         '../src/builtins/builtins-constructor-gen.h',
         '../src/builtins/builtins-constructor.h',
         '../src/builtins/builtins-conversion-gen.cc',
+        '../src/builtins/builtins-data-view-gen.h',
         '../src/builtins/builtins-date-gen.cc',
         '../src/builtins/builtins-debug-gen.cc',
         '../src/builtins/builtins-function-gen.cc',
